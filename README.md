@@ -1,2 +1,16 @@
 # Libray PMX untuk rtl8720DN
-# PMX_bw16
+|-------|----------|
+| Kebutuhan|Status|
+|-------|----------|
+| SNMP | ongoing|
+|-------|----------|
+| Sensor Suhu | ongoing|
+|-------|----------|
+| Sensor Humidity | ongoing|
+|-------|----------|
+| Sensor Gauge battery |ongoing|
+|-------|----------|
+| Mqtt |ongoing|
+|-------|----------|
+| Display LCD |ongoing|
+|-------|----------|
