@@ -16,3 +16,8 @@ MQTT => OK
 Sensor Humidity, Suhu => OK tapi masih pake AHT
 SNMP => Yang dikoding dari awal mengalami malperformed, padahal pas di check dengan wireshark datanya sama.
 Gauge batttery => Belum ada devicenya
+
+pinout
+_____
+
+SPI_miso
